@@ -53,4 +53,4 @@ continuous improvement.
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/azizatieh/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HaithamAlbayati-blue?logo=linkedin)](https://www.linkedin.com/in/azizatieh/)
